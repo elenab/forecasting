@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.coverage*
+*.egg-info/
+build/
+
+# misc
+*.pkl
+*.log
+
+# python
+*.pyc
+__pycache__
+.pytest_cache
+.cache
+.ipynb_checkpoints
+.mypy_cache
+pip-wheel-metadata
+
+.idea
